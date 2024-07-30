@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left" style="margin:2rem; max-width:79rem;">My name is Mojtaba, but you can call me Moji. I'm a Python developer with a passion for crafting robust and scalable web applications. My expertise lies in backend development using Django and Django REST Framework. </p>
+<p align="left" style="margin:0 2rem; max-width:79rem;">My name is Mojtaba, but you can call me Moji. I'm a Python developer with a passion for crafting robust and scalable web applications. My expertise lies in backend development using Django and Django REST Framework. </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<div style="margin:2rem; max-width:79rem;">
+<div style="margin:0 2rem; max-width:79rem;">
   <p align="left"><b>Python applications:</b> Leveraging the power of Python to create efficient and maintainable software solutions.</p>
   <p align="left"><b>Web applications:</b> Designing and developing user-friendly interfaces that deliver exceptional user experiences. </p>
   <p align="left"><b>RESTful APIs:</b> Architecting and implementing APIs that seamlessly integrate with frontend applications.</p>
@@ -43,4 +43,4 @@
 
 ###
 
-<p style="margin:2rem; max-width:79rem;">I'm always eager to explore new technologies and challenges, so feel free to reach out if you have a project in mind!</p>
+<p style="margin:0 2rem; max-width:79rem;">I'm always eager to explore new technologies and challenges, so feel free to reach out if you have a project in mind!</p>
